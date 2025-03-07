@@ -1,0 +1,10 @@
+{
+  "development": {
+    "username": "espe",
+    "password": "espe",
+    "database": "reserva_evento_barahona",
+    "host": "127.0.0.1",
+    "port": 5432,
+    "dialect": "postgres"
+  }
+}
